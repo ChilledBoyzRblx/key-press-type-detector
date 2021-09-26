@@ -1,0 +1,33 @@
+body {
+    background-image: url("bg_image.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    margin-top: 10px;
+    border-width: 20px;
+    background-color: white;
+    border-style:ridge;
+}
+
+h1{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#d1{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    background-color:crimson;
+    width:450px;
+    border-radius:5px;
+}
+h4{
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color:rgb(224, 105, 129);
+    width:450px;
+    border-radius:5px;
+}
